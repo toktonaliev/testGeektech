@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:hw3_nursultan.playground">
+   </FileRef>
+   <FileRef
+      location = "group:hw3_nazgul.playground">
+   </FileRef>
+   <FileRef
+      location = "group:hw3_ermek.playground">
+   </FileRef>
+   <FileRef
+      location = "group:hw3_erzhan.playground">
+   </FileRef>
+   <FileRef
+      location = "group:hw3_kapar.playground">
+   </FileRef>
+   <FileRef
+      location = "group:hw3_astra.playground">
+   </FileRef>
+</Workspace>
